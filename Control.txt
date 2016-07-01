@@ -1,0 +1,10 @@
+HOW TO:
+click/picking a mesh will select and turn on/off the lights
+
+F1,F2,F3,F5 - Lights: direct, point, spot, turn off
+WASD - camera xy-translation
+ijkl - camera z-translation/rotation
+arrows - mesh xy translation
+NUMPAD 8,4,6,2 - mesh z-translation, rotation in xy
+1 - select teapot
+2 - select box
